@@ -3,9 +3,9 @@
 - 📫 You can reach me on linkedin: https://www.linkedin.com/in/anderson7nia/
 
   
-Fun fact: I enjoy the new perspective computer science gives me as an app or product user. You can probably catch me saying "Oh, I know how to make that!" or "That's cool, I wonder how they did that?!", especially for small features the average user probably wouldn't give much attention to.
+Fun fact: I enjoy the new perspective computer science gives me as an app or product user. You can catch me saying "Oh, I know how to make that!" or "That's cool, I wonder how they did that?!", especially for small features the average user wouldn't pay much attention to.
 
-CS @ Pomona College | Prev SWE Intern @ Fabletics & Dev4Good | RTC | ColorStack | GWC | IBM Mini-Sprint, Goldman Sachs, US Bank Fellow
+CS | Pomona College | Prev SWE Intern @ TechStyleOS: Fabletics, Savage X Fenty, JustFab | RTC | ColorStack | GWC | IBM Mini-Sprint, Goldman Sachs, US Bank Fellow
 
 <!---
 niaanderson-po/niaanderson-po is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
